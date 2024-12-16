@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/9ac1b3cf0c494895a62e5a111becefbd">
+    <a href="https://imgur.com/a/DkudUvt.gif">
       
     </a>
     <a href="https://www.loom.com/share/9ac1b3cf0c494895a62e5a111becefbd">
